@@ -1,2 +1,2 @@
 Leonid Kharin local-1
-local-2
+global-1
